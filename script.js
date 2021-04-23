@@ -56,7 +56,8 @@ for(count=5; count > 0; count--){
 var d = new Date();
 
 alert(d);
-alert(d.getDate())
-alert(d.getDay())
-alert(d.getHours())
-alert(d.getMinutes())
+alert(d.getMonth());
+// alert(d.getDate())
+// alert(d.getDay())
+// alert(d.getHours())
+// alert(d.getMinutes())
